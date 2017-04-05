@@ -2,8 +2,8 @@ import os
 import time
 from slackclient import SlackClient
 
-BOT_ID = "U4U92534G"
-STARTER_BOT_TOKEN = "xoxb-164308173152-Sd1XL4SAahvDsSwxrvPQtO4V"
+BOT_ID = "AN_ID"
+STARTER_BOT_TOKEN = "A_TOKEN"
 
 # constants
 AT_BOT = "<@" + BOT_ID + ">"
