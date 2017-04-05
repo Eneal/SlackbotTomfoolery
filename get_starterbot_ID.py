@@ -2,7 +2,7 @@ from slackclient import SlackClient
 
 
 BOT_NAME = 'starterbot'
-STARTER_BOT_TOKEN = "xoxb-164308173152-Sd1XL4SAahvDsSwxrvPQtO4V"
+STARTER_BOT_TOKEN = "A_TOKEN"
 
 slack_client = SlackClient(STARTER_BOT_TOKEN)
 
